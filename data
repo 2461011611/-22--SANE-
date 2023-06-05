@@ -1,0 +1,3 @@
+The dataset was taken from the Breast Cancer Wisconsin dataset in the UCI machine learning repository a breast cancer dataset (breast-cancer.csv) containing breast tumor features (e.g. radius, texture, circumference of the mass, etc.) and corresponding diagnoses (M for malignant tumor and B for benign tumor) for prediction of breast cancer classification.
+
+ https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
